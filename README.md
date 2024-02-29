@@ -1,5 +1,5 @@
 # CodeIgniter 4 Application Starter
-
+This project is currently under construction
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
